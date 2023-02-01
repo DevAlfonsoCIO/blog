@@ -8,3 +8,9 @@ body{
     padding: 1px;
     border: 1px solid darkkhaki;
 }
+
+.cabecera {
+
+    background-color:beige;
+    color:chocolate;
+}
